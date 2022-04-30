@@ -1,2 +1,0 @@
-echo "$ZSH_CUSTOM"
-#ln -s $(dirname ${0})/aliases $(echo "${ZSH_CUSTOM}")/aliases.zsh
