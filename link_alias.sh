@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #This is where the simlink to alias file will be
-LINKPATH=$(echo "$ZSH_CUSTOM")/aliases.zsh
+LINKPATH=$(echo "${ZSH_CUSTOM}/aliases.zsh")
 echo $LINKPATH
 
 #if the link is there already remove it
